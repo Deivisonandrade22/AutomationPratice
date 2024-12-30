@@ -12,4 +12,4 @@ Antes de rodar os testes, é necessário ter os seguintes pré-requisitos instal
 - **IDE** de sua preferência (Recomendado IntelliJ IDEA, Eclipse ou VS Code)
 - **Navegador Google Chrome** para rodar os testes no ChromeDriver
 
-## Inportante verificar os caminhos da sua máquina para que ao realizar o upload nao ocorra erros.  
+ Importante verificar o caminho do arquivo envio.txt  que esta no projeto, para que ao realizar o upload não ocorra erros.  
